@@ -10,4 +10,4 @@ Linguagens:
 - CSS3
 - Conceitos de Flexbox
 
-Coordenadora: Gabriela Pinheiro, Front - End Developer
+Instrutora: Gabriela Pinheiro, Front - End Developer
