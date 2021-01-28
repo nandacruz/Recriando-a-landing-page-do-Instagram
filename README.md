@@ -6,6 +6,8 @@ Projeto realizado durante os estudos no curso da <a href= "https://digitalinnova
 
 <h2>Conceitos</h2>
 
+- HTML5
+- CSS3
 - Flexbox
 - Eventos
 - Responsividade
