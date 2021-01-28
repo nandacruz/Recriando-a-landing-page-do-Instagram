@@ -4,10 +4,6 @@ Projeto realizado durante os estudos no curso da <a href= "https://digitalinnova
 
 <img src= https://github.com/nandacruz/Recriando-a-pagina-inicial-do-Instagram/blob/main/project_img/Screenshot_1.png>
 
-Linguagens:
+<h2>Instrutora</h2>
 
-- HTML5
-- CSS3
-- Conceitos de Flexbox
-
-Instrutora: Gabriela Pinheiro, Front - End Developer
+- Gabriela Pinheiro, Front - End Developer
